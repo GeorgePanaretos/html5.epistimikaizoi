@@ -51,7 +51,6 @@ The HTML5 Epistimikaizoi repository is licensed under the [MIT License](LICENSE)
 
 If you have any questions, suggestions, or feedback regarding the HTML5 Epistimikaizoi repository, feel free to reach out:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
 - Issue Tracker: [GitHub Issues](https://github.com/GeorgePanaretos/html5.epistimikaizoi/issues)
 
 We value your input and are excited to hear from you!
