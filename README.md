@@ -9,7 +9,6 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Project Description
 
@@ -46,11 +45,3 @@ Please make sure to adhere to the repository's code of conduct and follow best p
 ## License
 
 The HTML5 Epistimikaizoi repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in accordance with the terms of this license.
-
-## Contact
-
-If you have any questions, suggestions, or feedback regarding the HTML5 Epistimikaizoi repository, feel free to reach out:
-
-- Issue Tracker: [GitHub Issues](https://github.com/GeorgePanaretos/html5.epistimikaizoi/issues)
-
-We value your input and are excited to hear from you!
